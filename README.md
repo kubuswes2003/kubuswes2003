@@ -1,6 +1,6 @@
 # Jakub Wesołowski
 
-M.Sc. student in **AI and autonomous systems** — double degree: Université d'Évry Paris-Saclay (Smart Aerospace and Autonomous Systems) and Poznań University of Technology (Automatic Control and Robotics).
+M.Sc. student in **Smart Aerospace and Autonomous Systems** at Université d'Évry Paris-Saclay, as a double degree with **Automatic Control and Robotics** at Poznań University of Technology.
 
 **Looking for a 6-month end-of-studies internship in France, starting March 2027** — Paris region preferred. Robotics, autonomous systems, perception, applied machine learning.
 
@@ -16,10 +16,10 @@ M.Sc. student in **AI and autonomous systems** — double degree: Université d'
 
 ## Tools I actually use
 
-**Core:** Python · ROS / ROS 2 · MATLAB
-**Machine learning:** scikit-learn · spaCy · LLMs and RAG
-**Infrastructure:** Docker · Linux · MQTT · FastAPI
+- **Core:** Python · ROS / ROS 2 · MATLAB
+- **Machine learning:** scikit-learn · spaCy · LLMs and RAG
+- **Infrastructure:** Docker · Linux · MQTT · FastAPI
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jakub-wesołowski-386bb91ab)
+[LinkedIn](https://www.linkedin.com/in/jakub-wesołowski-386bb91ab) · kubuswes2003@gmail.com
