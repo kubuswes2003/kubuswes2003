@@ -25,4 +25,4 @@ M.Sc. student in **Smart Aerospace and Autonomous Systems** at Université d'Év
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jakub-wesołowski-386bb91ab) · kubuswes2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jakub-wesolowski-386bb91ab) · kubuswes2003@gmail.com
